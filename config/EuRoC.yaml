@@ -40,8 +40,8 @@ LEFT2RIGHT.R: !!opencv-matrix
    data: [0.9995, 0.0043, 0.0298, -0.0042, 1.0000, -0.0031, -0.0298, 0.0030, 0.9996]
    
 LEFT2RIGHT.T: !!opencv-matrix
-   rows: 1
-   cols: 3
+   rows: 3
+   cols: 1
    dt: d
    data: [-690.3518, 36.7139, -63.3990]
 
